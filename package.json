@@ -2,6 +2,14 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Orrin Manning",
   "description": "This project has the finest package.json file that the world has ever seen",
+  "keywords": [
+    "npm",
+    "node",
+    "package.json",
+    "author",
+    "description",
+    "keyworkds"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
